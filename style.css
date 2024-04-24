@@ -1,0 +1,18 @@
+#img-div img{
+  width:80%;
+}
+#main {
+  margin: 30px 10px;
+  border-radius: 5px;
+  padding:  30px 10px;
+  background: #eeeeee;
+}
+#img-div{
+  background: #fff;
+}
+#img-caption{
+  padding: 10px;
+}
+#tribute-info{
+  padding: 50px 0;
+}
